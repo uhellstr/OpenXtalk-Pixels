@@ -11,8 +11,13 @@ Down load this free version of LiveCode from http://livecode.com/
 New version of Pixels that works with both on desktop (Mac, Windows, Linux, Raspberry pi) and on mobile devices.
 Tested device with Pixels is Nexus 7. 
 
+2013-12-27
+
+New version of Pixels that is resolution independent. Means it will work on any mobile device as Nexus 4,7,10 ,iPhone 4/5c/s or iPad's.
+Tested with simulators for all Android platforms. Cannot garantee it will scale correct on iPhone or iPad just yet but it should work.
+
+Added icon's folder if you want to compile for your Android unit. 
+
 Todo:
 
-- Version of Pixels that is tested on more mobile devices then Nexus 7
-- Not tested yet with iPad
-- Not tested yet with iPhone 4/5
+Add icons for iOS and make sure Pixels work on iOS 7 correctly.
