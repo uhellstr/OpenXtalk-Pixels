@@ -16,7 +16,11 @@ Tested device with Pixels is Nexus 7.
 New version of Pixels that is resolution independent. Means it will work on any mobile device as Nexus 4,7,10 ,iPhone 4/5c/s or iPad's.
 Tested with simulators for all Android platforms. Cannot garantee it will scale correct on iPhone or iPad just yet but it should work.
 
-Added icon's folder if you want to compile for your Android unit. 
+Added icon's folder if you want to compile for your Android unit.
+
+2013-12-28
+
+Added better graphics for start button and also some sound effects when pressing button and sound when demo has finished. 
 
 Todo:
 
