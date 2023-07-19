@@ -1,10 +1,14 @@
 Pixels
 ======
 
-A stupid but fun Apple ][ simulation created with help of LiveCode.
+A stupid but fun Apple ][ simulation created with help of OpenXtalk
 
 This version of Pixels is built with LiveCode Community version 6.1.X
-Download this free version of LiveCode from http://livecode.com/
+Since LiveCode no longer suppors a community edtion (open source) the
+code is now converted to OpenXtalk. The code should probably still
+run with the commersial version of LiveCode.
+
+To download OpenXtalk see there forum at https://www.openxtalk.org/forum/
 
 2013-12-26
 
